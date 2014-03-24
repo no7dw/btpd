@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<report>
+<operation><command>List</command>
+<return>OK</return></operation>
+<daemon>
+<status>active</status>
+</daemon>
+<torrent><total>2</total>
+
+<job>
+
+  <id>2</id> 
+  <priority>4</priority> 
+  <partition>HDD1</partition> 
+  <space>70836960</space> 
+  <name>02 瀹跺涵鎴愬憳</name> 
+  <status>seeding</status> 
+  <size>48.00</size> 
+  <downloaded>47.10</downloaded> 
+  <timeleft>00:00:00</timeleft> 
+  <percent>99%</percent> 
+  <dwrate>23.00 kB/s</dwrate> 
+  <uprate>10.00 kB/s</uprate> 
+  <npeers>1</npeers> 
+
+</job>
+
+
+<job>
+  <id>1</id> 
+  <priority>5</priority> 
+  <partition>HDD1</partition> 
+  <space>70836960</space> 
+  <name>01 26涓</name> 
+  <status>seeding</status> 
+  <size>58.63</size> 
+  <downloaded>50.63</downloaded> 
+  <timeleft>00:00:00</timeleft> 
+  <percent>90%</percent> 
+  <dwrate>0.00 kB/s</dwrate> 
+  <uprate>0.00 kB/s</uprate> 
+  <npeers>0</npeers> 
+
+ 
+
+</job>
+
+</torrent></report>

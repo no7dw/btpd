@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report>
+    <operation>
+        <command>List</command>
+        <return>OK</return>
+    </operation>
+    <daemon>
+        <status>active</status>
+    </daemon>
+    <torrent>
+        <total>5</total>
+        <job>
+            <id>0</id>
+            <priority>5</priority>
+            <partition>HDD1</partition>
+            <space>70737748</space>
+            <name>01 26涓</name>
+            <status>seeding</status>
+            <size>58.63</size>
+            <downloaded>58.63</downloaded>
+            <timeleft>00:00:00</timeleft>
+            <percent>100%</percent>
+            <dwrate>0.00 kB/s</dwrate>
+            <uprate>0.00 kB/s</uprate>
+            <npeers>0</npeers>
+        </job>
+        <job>
+            <id>1</id>
+            <priority>4</priority>
+            <partition>HDD1</partition>
+            <space>70737748</space>
+            <name>02 瀹跺涵鎴愬憳</name>
+            <status>seeding</status>
+            <size>48.00</size>
+            <downloaded>48.00</downloaded>
+            <timeleft>00:00:00</timeleft>
+            <percent>100%</percent>
+            <dwrate>0.00 kB/s</dwrate>
+            <uprate>0.00 kB/s</uprate>
+            <npeers>0</npeers>
+        </job>
+        <job>
+            <id>2</id>
+            <priority>3</priority>
+            <partition>HDD1</partition>
+            <space>70737748</space>
+            <name>03 姘存灉</name>
+            <status>seeding</status>
+            <size>71.38</size>
+            <downloaded>71.38</downloaded>
+            <timeleft>00:00:00</timeleft>
+            <percent>100%</percent>
+            <dwrate>0.00 kB/s</dwrate>
+            <uprate>0.00 kB/s</uprate>
+            <npeers>0</npeers>
+        </job>
+        <job>
+            <id>3</id>
+            <priority>2</priority>
+            <partition>HDD1</partition>
+            <space>70737748</space>
+            <name>04 鏁板瓧1鍒</name>
+            <status>seeding</status>
+            <size>55.50</size>
+            <downloaded>55.50</downloaded>
+            <timeleft>00:00:00</timeleft>
+            <percent>100%</percent>
+            <dwrate>0.00 kB/s</dwrate>
+            <uprate>0.00 kB/s</uprate>
+            <npeers>0</npeers>
+        </job>
+        <job>
+            <id>4</id>
+            <priority>1</priority>
+            <partition>HDD1</partition>
+            <space>70737748</space>
+            <name>05 浜斿畼</name>
+            <status>seeding</status>
+            <size>53.00</size>
+            <downloaded>53.00</downloaded>
+            <timeleft>00:00:00</timeleft>
+            <percent>100%</percent>
+            <dwrate>0.00 kB/s</dwrate>
+            <uprate>0.00 kB/s</uprate>
+            <npeers>0</npeers>
+        </job>
+    </torrent>
+</report>
